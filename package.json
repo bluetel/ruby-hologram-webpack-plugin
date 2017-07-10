@@ -1,0 +1,16 @@
+{
+  "name": "ruby-hologram-webpack-plugin",
+  "version": "2.0.0",
+  "description": "A Webpack plugin for the generation of styleguides using Ruby Hologram.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluetel-Solutions/ruby-hologram-webpack-plugin.git"
+  },
+  "author": "Alex Wilson <a@ax.gy> (https://ax.gy/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bluetel-Solutions/ruby-hologram-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Bluetel-Solutions/ruby-hologram-webpack-plugin#readme"
+}
